@@ -1,0 +1,29 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: black;
+
+    h1{
+        color: red;
+    }
+    h2{
+        color: blue;
+    }
+    ul i li{
+            color: pink;
+        }
+
+    ol li {
+            color:white;
+        }
+    /*the css box model*/
+    .box{
+        width: 150px;
+        height: 150px;
+        background:whitesmoke;
+        margin  :50PX;
+        padding: 5px;
+        border-bottom:50px solid whitesmoke;
+        border-left: 50px solid whitesmoke;
+        border-right: 50px solid whitesmoke;
+        border-top: 50px solid whitesmoke;
+    }
